@@ -1,4 +1,9 @@
 # Pirate Battle
+<p align="left">
+  <a href="https://pirate-battle-tau.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Acessar%20Site-4CAF50?style=for-the-badge">
+  </a>
+</p>
 
 Top-down naval shooter. React and TypeScript (strict) for menus, PixiJS for the arena, TanStack Query and Axios for the ranking and match history, MSW for those APIs, Playwright for end-to-end tests.
 
